@@ -7,5 +7,10 @@ Generate CSR
 $ generate-csr hostname domain.com Organization
 ```
 
+## Installation
+```sh
+$ make install
+```
+
 ## License
 [MIT](./LICENSE)
